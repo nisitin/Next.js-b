@@ -1,5 +1,5 @@
 import Layout from "../components/Layout";
-import Post from "../components/Post";
+import { Post } from "../components/Post";
 import { getAllPostsData } from "../lib/posts";
 
 
